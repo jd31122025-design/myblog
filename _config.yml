@@ -1,6 +1,6 @@
-title: My Blog
+title: My Test Site
 description: Reading - Writing - Publishing - This & That
-author: "© 2002 - 2024 My Blog"
+author: "© 2002 - 2024 My Test Site"
 show_downloads: false
 
 # Build settings
@@ -8,20 +8,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#base_url: 
+#base_url: /gh-pages-minima-starter
 
 # Minima social links
 #github_username: 
 #linkedin_username:
 #rss: rss
 
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
-
 # Minima: show excerpts in the frontpage
+paginate: 5
 show_excerpts: true
-excerpt_separator: 
 
 minima:
   date_format: "%d %B %Y"
@@ -34,6 +30,9 @@ header_pages:
   - _pages/for-writers.md
   - _pages/for-readers.md
   - _pages/contact.md
+
+include:
+    - _pages
 
 exclude: 
     - .gitignore
