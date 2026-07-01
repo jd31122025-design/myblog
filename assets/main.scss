@@ -1,0 +1,99 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+/* Your custom styles below */
+.site-header {
+  border-top: 5px solid #424242;
+  background-color: #2196F3;
+  color: #fff;
+}
+
+.site-header a:link, .site-header a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.site-header a:hover {
+  color: #eee;
+  text-decoration: none;
+}
+
+.post-header{
+  text-align: center;
+  border-bottom: 1px dashed #999;
+}
+
+.box-note {
+  background-color: #eee;
+  border-left: 6px solid #2196F3;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.site-footer h-card{
+  border-top: 1px solid #2196F3;
+  background-color: #2196F3;
+  color: #fff;
+  border-bottom: 5px solid #424242;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #2196F3;
+   color: white;
+   text-align: center;
+}
+
+/*  
+ * PAGINATION
+ */
+
+.pagination {
+      overflow: hidden;
+      margin-left: 0;
+      margin-right: 0;
+      font-family: $sans-serif;
+      font-size: $base-font-size + 1px;
+      color: $header-line-color;
+      text-align: center;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.pagination-item {
+      display: block;
+      padding: 10px;
+}
+.pagination-item:first-child {
+      margin-bottom: -1px;
+}
+
+/* Only provide a hover state for linked pagination items */
+a.pagination-item:hover {
+      background-color: #f5f5f5;
+}
+
+@media (min-width: 100px) {
+      .pagination {
+            margin: 0 0;
+      }
+      .pagination-item {
+            float: left;
+            width: 30%;
+      }
+      .pagination-item:first-child {
+            margin-bottom: 0;
+            border-top-left-radius:    $border-radius;
+            border-bottom-left-radius: $border-radius;
+      }
+      .pagination-item:last-child {
+            margin-left: -1px;
+            border-top-right-radius:    $border-radius;
+            border-bottom-right-radius: $border-radius;
+      }
+}
