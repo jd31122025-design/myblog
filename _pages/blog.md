@@ -2,6 +2,7 @@
 permalink: /blog
 layout: page
 title: Blog
+subtitle: This is where I tell my friends way too much about myself
 ---
 
 Here you can find all my blog posts, sorted by date. You will find a list of tags below.
