@@ -2,6 +2,7 @@
 permalink: /my-books
 layout: page
 title: My Books
+subtitle: If you're looking for a new book to read, maybe I can tempt you.
 ---
 
 Below you will find my available books and publications. Some are a free download, while others are available for purchase in paperback and/or various ebook formats. New publications will be added to the top of its category list — books or articles. Click on the title to be taken to a page with a more in-depth blurb and information on how to purchase a copy.

@@ -2,6 +2,7 @@
 permalink: /for-writers
 layout: page
 title: For Writers
+subtitle: Writing and Publishing Tips and Resources
 ---
 
 The headings on this page include:
