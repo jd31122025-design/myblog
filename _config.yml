@@ -13,7 +13,7 @@
 title: My Test Website
 
 # Your name to show in the footer
-author: JD Design
+author: Copyright © 2002-2026
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,6 @@ author: JD Design
 
 navbar-links:
   About Me: "about-me"
-  Blog: "blog"
   My Books: "my-books"
   For Readers: "for-readers"
   For Writers: "for-writers"
