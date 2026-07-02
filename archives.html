@@ -1,8 +1,14 @@
 ---
 layout: page
 title: 'Tag Index'
-subtitle: A list of all tags used in this site
+subtitle: A list of all posts and tags used in this site
 ---
+
+Sometimes it is fun to go back and read old posts. If you enjoy doing that, then this page is for you. 
+It lists all the tags used in this site, and under each tag, it lists all the posts that have that tag. 
+You can click on any post title to read that post.
+
+<h2>Search by Tags:</h2>
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
@@ -35,3 +41,13 @@ subtitle: A list of all tags used in this site
     </div>
 {%- endfor -%}
 </div>
+
+<h2>Search by Post:</h2>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href=".{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
