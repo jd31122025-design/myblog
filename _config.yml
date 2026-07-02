@@ -23,6 +23,7 @@ author: Copyright
 
 navbar-links:
   About Me: "about-me"
+  Blog: "/blog/index.html"
   My Books: "my-books"
   For Readers: "for-readers"
   For Writers: "for-writers"
