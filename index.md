@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome
-subtitle: My thoughts, ramblings, experiment findings and more.
+subtitle: Reading - Writing - Publishing - This & That
 ---
 
 My desk is a place where I share my thoughts, ideas, and experiences related to reading, writing, publishing, and various other topics. Here, you'll find a collection of articles, book reviews, writing tips, and personal reflections that I hope will inspire and inform you.
