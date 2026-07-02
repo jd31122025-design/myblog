@@ -20,12 +20,12 @@ author: JD Design
 ###############################################
 
 navbar-links:
+  About Me: "about-me"
   Blog: "blog"
-  My Books: 
-    - "about-me"
-    - "my-books"
+  My Books: "my-books"
   For Readers: "for-readers"
   For Writers: "for-writers"
+  Archives: "tags"
   Contact: "contact"
 
 ################
@@ -141,14 +141,14 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#d9d9d9"
+hover-col: "#bbbbbb"
 navbar-col: "#2196F3"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#2196F3"
 footer-col: "#2196F3"
 footer-text-col: "#ffffff"
 footer-link-col: "#ffffff"
-footer-hover-col: "#d9d9d9"
+footer-hover-col: "#bbbbbb"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
