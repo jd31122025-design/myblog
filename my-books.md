@@ -20,12 +20,13 @@ Alternatively, browse below to find out more about my published books.
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
-<img src="{{ 'assets/img/JourneyToFreedom-283wide.jpg' | relative_url }}" alt="Journey to Freedom" align="left" />
+<img src="{{ 'assets/img/JourneyToFreedom-283wide.jpg' | relative_url }}" alt="Journey to Freedom" style="align: left; padding-right: 10px;"  />
+
 **Journey to Freedom: A mini-fantasy collection**
 released 11 December 2019
 Adult Fiction, Fantasy
 
-A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [[Read more »|Journey to Freedom: A mini-fantasy collection]]
+A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? Read more »
 
 Available in paperback and various digital formats.
 
