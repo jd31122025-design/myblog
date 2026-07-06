@@ -19,7 +19,7 @@ The headings on this page include:
 * TOC
 {:toc}
 
-<h2 class="mybooks">Books</h2>
+## Books
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
   <strong>Want to skip straight to the online stores?</strong><br />
@@ -165,11 +165,11 @@ A collection of fantasy, science fiction and horror stories, including my story 
 </div>
 </div>
 
-<h2 class="mybooks">Articles</h2>
+## Articles
 
 [[To Assess or Not To Assess, That is the Question]] – published by The Scriptorium in June 2003
 
-<h2 class="mybooks">Interviews and Guest Posts</h2>
+## Interviews and Guest Posts
 
 """
 ''Interviews''
@@ -191,11 +191,11 @@ Graham Storrs – July 2013 (as Karen Henderson)
 [[The Word|https://www.alanbaxteronline.com/age-publishing-guest-post-6-karen-lee-field/]] – January 2011
 """
 
-<h2 class="mybooks">Who is Karen Lee Field?</h2>
+## Who is Karen Lee Field?
 
 You actually want to know more about me! Thank you, I’m flattered. Please go to the [[about me|About Me]] page.
 
-<h2 class="mybooks">Credits</h2>
+## Credits
 
 Most of the icons used in this section of the website are courtesy of Wax Creative Designs.
 
