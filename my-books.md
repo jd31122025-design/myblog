@@ -5,12 +5,11 @@ title: My Books
 subtitle: If you're looking for a new book to read, maybe I can tempt you.
 category: my-books
 ---
-
-Below you will find my available books and publications. Some are a free download, while others are available for purchase in paperback and/or various ebook formats. New publications will be added to the top of its category list — books or articles. Click on the title to be taken to a page with a more in-depth blurb and information on how to purchase a copy.
-
 The headings on this page include:
 * TOC
 {:toc}
+
+Below you will find my available books and publications. Some are a free download, while others are available for purchase in paperback and/or various ebook formats. New publications will be added to the top of its category list — books or articles. Click on the title to be taken to a page with a more in-depth blurb and information on how to purchase a copy.
 
 ## Books
 
@@ -21,21 +20,17 @@ Alternatively, browse below to find out more about my published books.
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
-<div class="row">
-  <div class="column1">[img[Journey-To-Freedom_small-mockup.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[Journey to Freedom: A mini-fantasy collection]]</h4>
+<img src="{{ 'assets/img/JourneyToFreedom-283wide.jpg' | relative_url }}" alt="Journey to Freedom" align="left" />
+**Journey to Freedom: A mini-fantasy collection**
 released 11 December 2019
 Adult Fiction, Fantasy
 
 A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [[Read more »|Journey to Freedom: A mini-fantasy collection]]
 
 Available in paperback and various digital formats.
-"""
-</div>
-</div>
+
 <hr>
+
 <div class="row">
   <div class="column1">[img[HouseontheHill-Paperback&EbookMockup-narrow.jpg]]</div>
   <div class="column2">
