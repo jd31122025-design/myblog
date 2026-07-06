@@ -3,16 +3,14 @@ layout: page
 title: 'Archives'
 subtitle: A list of all posts and tags used on this site.
 ---
+
+Sometimes it is fun to go back and read old posts. If you enjoy doing that, then this page is for you. 
+It lists all the tags used on this site, and under each tag, it lists all the posts that have that tag. 
+You can click on any post title to read that post.
+
+The headings on this page include:
 * TOC
 {:toc}
-
-<p>Sometimes it is fun to go back and read old posts. If you enjoy doing that, then this page is for you. 
-It lists all the tags used on this site, and under each tag, it lists all the posts that have that tag. 
-You can click on any post title to read that post.</p>
-
-<p>Or, you can browse all posts, no matter what category they belong to. To do that, simply scroll down the page 
-until you see the "Search by Post" section. There, you will find a list of all posts on this site, in reverse 
-chronological order.</p>
 
 ## Search by Tags:
 
@@ -28,25 +26,6 @@ chronological order.</p>
 {%- for tag in tags_list -%}
     <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
-
-<div id="full-tags-list">
-{%- for tag in tags_list -%}
-    <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
-    </h2>
-    <div class="post-list">
-        {%- for post in site.tags[tag] -%}
-            <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
-                <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-                </div>
-            </div>
-        {%- endfor -%}
-    </div>
-{%- endfor -%}
-</div>
 
 ## Search by Post:
 
