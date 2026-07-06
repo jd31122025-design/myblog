@@ -20,11 +20,11 @@ Alternatively, browse below to find out more about my published books.
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
-<img src="{{ 'assets/img/JourneyToFreedom-188wide.jpg' | relative_url }}" alt="Journey to Freedom" style="align: left; padding-right: 10px;"  />
+![Journey to Freedom](/assets/img/JourneyToFreedom-188wide.jpg){: style="float: left; padding-right: 10px;" }
 
 **Journey to Freedom: A mini-fantasy collection**
-released 11 December 2019
-Adult Fiction, Fantasy
+<p>released 11 December 2019<br>
+Adult Fiction, Fantasy</p>
 
 A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? Read more »
 
@@ -32,17 +32,18 @@ Available in paperback and various digital formats.
 
 <hr>
 
-![House on the Hill](/assets/img/JourneyToFreedom-188wide.jpg){: style="float: left; padding-right: 10px;" }
+![House on the Hill](/assets/img/House-onthe-Hill_500.jpg){: width="188px" style="float: left; padding-right: 10px;" }
 
 **House on the Hill: A Cat and Mouse Adventure**
-released 9 July 2019
-Children’s Fiction (9+), Adventure
+<p>released 9 July 2019<br>
+Children’s Fiction (9+), Adventure</p>
 
 Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. Read more »
 
 Available in paperback and various digital formats.
 
 <hr>
+
 <div class="row">
   <div class="column1">[img[DominoEffect-Paperback&ebook-mockup-narrow.jpg]]</div>
   <div class="column2">
