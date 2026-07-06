@@ -32,7 +32,7 @@ Available in paperback and various digital formats.
 
 <hr>
 
-![House on the Hill](/assets/img/House-onthe-Hill_500.jpg){: height="auto" width="188px" style="float: left; padding-right: 10px;" }
+![House on the Hill](/assets/img/House-onthe-Hill_500.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
 **House on the Hill: A Cat and Mouse Adventure**
 <p>released 9 July 2019<br>
