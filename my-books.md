@@ -20,7 +20,7 @@ Alternatively, browse below to find out more about my published books.
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 
-![Journey to Freedom](/assets/img/JourneyToFreedom-188wide.jpg){: style="float: left; padding-right: 10px;" }
+![Journey to Freedom](/assets/img/JourneyToFreedom-188wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
 **Journey to Freedom: A mini-fantasy collection**
 <p>released 11 December 2019<br>
