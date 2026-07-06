@@ -32,11 +32,9 @@ Available in paperback and various digital formats.
 
 <hr>
 
-<div class="row">
-  <div class="column1">[img[HouseontheHill-Paperback&EbookMockup-narrow.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[House on the Hill: A Cat and Mouse Adventure]]</h4>
+![House on the Hill](/assets/img/JourneyToFreedom-188wide.jpg){ float: left; padding-right: 10px; }
+
+**House on the Hill: A Cat and Mouse Adventure**
 released 9 July 2019
 Children’s Fiction (9+), Adventure
 
