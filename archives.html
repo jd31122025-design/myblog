@@ -11,10 +11,12 @@ You can click on any post title to read that post.</p>
 <p>Or, you can browse all posts, no matter what category they belong to. To do that, simply scroll down the page 
 until you see the "Search by Post" section. There, you will find a list of all posts on this site, in reverse 
 chronological order.</p>
+* TOC
+{:toc}
 
-<h1>Search by Tags:</h1>
+## Search by Tags:
 
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{% assign date_format = site.date_format | default: "%-d %B %Y" %}
 
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
@@ -46,7 +48,7 @@ chronological order.</p>
 {%- endfor -%}
 </div>
 
-<h1>Search by Post:</h1>
+## Search by Post:
 
 <ul>
   {% for post in site.posts %}
