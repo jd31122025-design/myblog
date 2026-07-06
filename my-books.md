@@ -15,11 +15,10 @@ The headings on this page include:
 
 ## Books
 
-<div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
+{: .box-note}
 **Want to skip straight to the online stores?**<br />
 Use this <a href="https://books2read.com/ap/nlBja2/Karen-Lee-Field">universal link</a> to view all my books and purchase from the store of your choice.<br />
 Alternatively, browse below to find out more about my published books.
-</div>
 
 All my books are available in paperback and various digital formats and are available from most online bookstores.
 

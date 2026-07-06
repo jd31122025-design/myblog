@@ -24,6 +24,13 @@ layout: null
   --mid-col: #808080;
 }
 
+.box-note {
+  background-color: #eee;
+  border-left: 6px solid #2196F3;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
 /* --- General --- */
 
 html {
