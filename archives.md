@@ -3,6 +3,8 @@ layout: page
 title: 'Archives'
 subtitle: A list of all posts and tags used on this site.
 ---
+TOC
+{:toc}
 
 <p>Sometimes it is fun to go back and read old posts. If you enjoy doing that, then this page is for you. 
 It lists all the tags used on this site, and under each tag, it lists all the posts that have that tag. 
@@ -11,8 +13,6 @@ You can click on any post title to read that post.</p>
 <p>Or, you can browse all posts, no matter what category they belong to. To do that, simply scroll down the page 
 until you see the "Search by Post" section. There, you will find a list of all posts on this site, in reverse 
 chronological order.</p>
-* TOC
-{:toc}
 
 ## Search by Tags:
 
