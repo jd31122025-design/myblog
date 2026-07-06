@@ -16,7 +16,7 @@ The headings on this page include:
 <p>Good luck with your writing.</p>
 
 ## Posts on Writing
-Getting started pages:
+
 <ul>
 {% for page in site.pages %}
 {% for tag in page.tags %}
@@ -28,6 +28,7 @@ Getting started pages:
 </ul>
 
 ## Recommended Software
+
 <p>These links are <strong>NOT</strong> affiliate links. I recommend them, because I use them myself and like them.</p>
 <ul>
 <li><a href="http://www.rsingermanson.com/html/the_snowflake.html">Snowflake Process of Writing a Novel</a> - for planning your novel. Purchase the software or use the manual method. I've done both, and they both work wonders.</li>
