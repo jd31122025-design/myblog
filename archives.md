@@ -14,18 +14,27 @@ The headings on this page include:
 
 ## Search by Tags:
 
-{% assign date_format = site.date_format | default: "%-d %B %Y" %}
+<!-- sort posts by tags -->
+{% for item in page.tags %}
+    <h2>{{ item }}</h2><a name="{{ item | slugify }}"></a>
+    <ul style="list-style-type: none">
+    {% for post in site.tags[item] %}
+        <li>
+        <h3>
+            <a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+        </h3>
+        <span>{{ post.date | date_to_long_string }}</span>
+        {{ post.excerpt }}
+        {% if post.content contains site.excerpt_separator %}
+            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+        {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+{% endfor %}
 
-{%- capture site_tags -%}
-    {%- for tag in site.tags -%}
-        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
-{%- endcapture -%}
-{%- assign tags_list = site_tags | split:',' | sort -%}
-
-{%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
-{%- endfor -%}
 
 ## Search by Post:
 
