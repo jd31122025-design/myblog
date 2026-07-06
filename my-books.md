@@ -16,6 +16,9 @@ The headings on this page include:
 * Who is Karen Lee Field?
 * Credits
 
+* TOC
+{:toc}
+
 <h2 class="mybooks">Books</h2>
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
