@@ -17,15 +17,13 @@ The headings on this page include:
 
 ## Posts on Writing
 
-{% raw %}
 <ul>
- {% for post in site.categories.writing limit:20 %}
+ {% for post in site.categories.writing %}
    <li>
      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
    </li>
  {% endfor %}
 </ul>
-{% endraw %}
 
 ## Recommended Software
 
