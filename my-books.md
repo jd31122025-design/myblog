@@ -32,7 +32,7 @@ Available in paperback and various digital formats.
 
 <hr>
 
-![House on the Hill](/assets/img/JourneyToFreedom-188wide.jpg){ float: left; padding-right: 10px; }
+![House on the Hill](/assets/img/JourneyToFreedom-188wide.jpg){: style="float: left; padding-right: 10px;" }
 
 **House on the Hill: A Cat and Mouse Adventure**
 released 9 July 2019
