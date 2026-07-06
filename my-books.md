@@ -38,12 +38,10 @@ Available in paperback and various digital formats.
 released 9 July 2019
 Children’s Fiction (9+), Adventure
 
-Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. [[Read more »|House on the Hill: A Cat and Mouse Adventure]]
+Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. Read more »
 
 Available in paperback and various digital formats.
-"""
-</div>
-</div>
+
 <hr>
 <div class="row">
   <div class="column1">[img[DominoEffect-Paperback&ebook-mockup-narrow.jpg]]</div>
