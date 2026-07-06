@@ -18,14 +18,12 @@ The headings on this page include:
 ## Posts on Writing
 
 <ul>
-{% for page in site.pages %}
-{% for tag in page.tags %}
-{% if tag == "writing" %}
-<li><a href="{{page.url | remove: "/" }}">{{page.title}}</a></li>
-{% endif %}
-{% endfor %}
-{% endfor %}
-</ul>
+    {% for page in site.pages %}
+      {% if page.categories contains 'writing' %}
+        <li><a href={{site.url}}{{page.url}}>{{page.description}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 
 ## Recommended Software
 
