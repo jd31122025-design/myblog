@@ -16,17 +16,16 @@ The headings on this page include:
 <p>Good luck with your writing.</p>
 
 ## Posts on Writing
-
-<div class="post-list">
-        {%- for post in site.tags[writing] -%}
-            <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
-                <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-                </div>
-            </div>
-        {%- endfor -%}
-</div>
+Getting started pages:
+<ul>
+{% for page in site.pages %}
+{% for tag in page.tags %}
+{% if tag == "writing" %}
+<li><a href="{{page.url | remove: "/" }}">{{page.title}}</a></li>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>
 
 ## Recommended Software
 <p>These links are <strong>NOT</strong> affiliate links. I recommend them, because I use them myself and like them.</p>
