@@ -18,11 +18,13 @@ The headings on this page include:
 ## Posts on Writing
 
 <ul>
-    {% for page in site.pages %}
-      {% if page.categories contains 'writing' %}
-        <li><a href={{site.url}}{{page.url}}>{{page.description}}</a></li>
-      {% endif %}
-    {% endfor %}
+<li>
+{% highlight writing %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+</li>
 </ul>
 
 ## Recommended Software
