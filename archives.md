@@ -3,7 +3,7 @@ layout: page
 title: 'Archives'
 subtitle: A list of all posts and tags used on this site.
 ---
-TOC
+* TOC
 {:toc}
 
 <p>Sometimes it is fun to go back and read old posts. If you enjoy doing that, then this page is for you. 

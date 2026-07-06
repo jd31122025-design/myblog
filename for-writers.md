@@ -17,10 +17,15 @@ The headings on this page include:
 
 ## Posts on Writing
 
-<div class="tc-table-of-contents">
-
-<<toc-selective-expandable 'Writing' !sort[created]>>
-
+<div class="post-list">
+        {%- for post in site.tags[writing] -%}
+            <div class="tag-entry">
+                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
+                <div class="entry-date">
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+                </div>
+            </div>
+        {%- endfor -%}
 </div>
 
 ## Recommended Software
