@@ -14,27 +14,17 @@ The headings on this page include:
 
 ## Search by Tags:
 
-<!-- sort posts by tags -->
-{% for item in page.tags %}
-    <h2>{{ item }}</h2><a name="{{ item | slugify }}"></a>
-    <ul style="list-style-type: none">
-    {% for post in site.tags[item] %}
-        <li>
-        <h3>
-            <a href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-            </a>
-        </h3>
-        <span>{{ post.date | date_to_long_string }}</span>
-        {{ post.excerpt }}
-        {% if post.content contains site.excerpt_separator %}
-            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-        {% endif %}
-        </li>
-    {% endfor %}
-    </ul>
-{% endfor %}
-
+<h1>Tags</h1>
+<ul>
+  {% assign tags_list = site.tags | sort %}
+  {% for tag in tags_list %}
+    <li>
+      <a href="/tag/{{ tag[0] | slugify }}/">
+        {{ tag[0] }} ({{ tag[1].size }})
+      </a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Search by Post:
 

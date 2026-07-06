@@ -23,7 +23,7 @@ The headings on this page include:
         <li><a href={{site.url}}{{page.url}}>{{page.description}}</a></li>
       {% endif %}
     {% endfor %}
-  </ul>
+</ul>
 
 ## Recommended Software
 
