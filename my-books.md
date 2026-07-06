@@ -10,19 +10,13 @@ Below you will find my available books and publications. Some are a free downloa
 
 The headings on this page include:
 
-* Books
-* Articles
-* Interviews & Guest Posts
-* Who is Karen Lee Field?
-* Credits
-
 * TOC
 {:toc}
 
 ## Books
 
 <div style="background-color: #eee;border-left: 6px solid #ddd;padding: 10px;margin-bottom: 15px">
-  <strong>Want to skip straight to the online stores?</strong><br />
+**Want to skip straight to the online stores?**<br />
 Use this <a href="https://books2read.com/ap/nlBja2/Karen-Lee-Field">universal link</a> to view all my books and purchase from the store of your choice.<br />
 Alternatively, browse below to find out more about my published books.
 </div>
@@ -172,7 +166,7 @@ A collection of fantasy, science fiction and horror stories, including my story 
 ## Interviews and Guest Posts
 
 """
-''Interviews''
+**Interviews**
 [[Sherry D. Ramsey|http://www.sherrydramsey.com/?p=1965]] – July 2013 (as Karen Henderson)
 Kayelle Press – October 2011
 Ripping Ozzie Reads – October 2011
@@ -180,7 +174,7 @@ Ripping Ozzie Reads – October 2011
 """
 
 """
-''Guest Blog Posts''
+**Guest Blog Posts**
 [[Paul Liadis|https://www.paulliadis.com/blog/2013/07/its-not-personal-but/]] – July 2013 (as Karen Henderson)
 Post-Apocalyptic Bookclub – July 2013 (as Karen Henderson; with Aric Sundquist)
 Ramblings of a Rusty Writer – July 2013 (as Karen Henderson)
