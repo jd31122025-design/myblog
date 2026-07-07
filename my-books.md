@@ -32,7 +32,7 @@ Available in paperback and various digital formats.
 
 <hr>
 
-![House on the Hill](/assets/img/House-onthe-Hill.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
+![House on the Hill](/assets/img/House-onthe-Hill-300wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
 **House on the Hill: A Cat and Mouse Adventure**
 <p>released 9 July 2019<br>
@@ -44,36 +44,30 @@ Available in paperback and various digital formats.
 
 <hr>
 
-<div class="row">
-  <div class="column1">[img[DominoEffect-Paperback&ebook-mockup-narrow.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[Domino Effect: A Dark Novel]]</h4>
-released 7 January 2019
-Adult, Dark Fiction
+![Domino Effect](/assets/img/DominoEffect-188wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
-Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. [[Read more »|Domino Effect: A Dark Novel]]
+**Domino Effect: A Dark Novel**
+<p>released 7 January 2019<br>
+Adult, Dark Fiction</p>
+
+Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. Read more »
 
 Available in paperback and various digital formats.
-"""
-</div>
-</div>
-<hr>
-<div class="row">
-  <div class="column1">[img[TheLionGods.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[The Lion Gods (Land of Miu, #3)]]</h4>
-released 1 June 2018
-Children’s Fiction (9+), Fantasy
 
-When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [[Read more »|The Lion Gods (Land of Miu, #3)]]
+<hr>
+
+![The Lion Gods](/assets/img/LionGods-200wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
+
+**The Lion Gods (Land of Miu, #3)**
+<p>released 1 June 2018<br>
+Children’s Fiction (9+), Fantasy</p>
+
+When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? Read more »
 
 Available in paperback and various digital formats.
-"""
-</div>
-</div>
+
 <hr>
+
 <div class="row">
   <div class="column1">[img[TheKingsRiddle.jpg]]</div>
   <div class="column2">
@@ -152,36 +146,32 @@ A collection of fantasy, science fiction and horror stories, including my story 
 
 ## Articles
 
-[[To Assess or Not To Assess, That is the Question]] – published by The Scriptorium in June 2003
+To Assess or Not To Assess, That is the Question – published by The Scriptorium in June 2003
 
 ## Interviews and Guest Posts
 
-"""
 **Interviews**
-[[Sherry D. Ramsey|http://www.sherrydramsey.com/?p=1965]] – July 2013 (as Karen Henderson)
+[Sherry D. Ramsey](http://www.sherrydramsey.com/?p=1965) – July 2013 (as Karen Henderson)
 Kayelle Press – October 2011
 Ripping Ozzie Reads – October 2011
-[[Allie’s Musings|http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html]] – March 2009
-"""
+[Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009
 
-"""
 **Guest Blog Posts**
-[[Paul Liadis|https://www.paulliadis.com/blog/2013/07/its-not-personal-but/]] – July 2013 (as Karen Henderson)
+[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)
 Post-Apocalyptic Bookclub – July 2013 (as Karen Henderson; with Aric Sundquist)
 Ramblings of a Rusty Writer – July 2013 (as Karen Henderson)
 Words Out West – July 2013 (as Karen Henderson)
 Graham Storrs – July 2013 (as Karen Henderson)
-[[The Struggling Writer|https://strugglingwriter.wordpress.com/2013/07/07/the-pantser-the-plotter-and-the-inbetweener/]] – July 2013 (as Karen Henderson)
-[[Forty Adjectives and a Noun|https://fortyadjectives.blogspot.com/2013/07/tomorrows-virtual-book-tour-tomorrow.html]] – July 2013 (as Karen Henderson)
-[[The Word|https://www.alanbaxteronline.com/age-publishing-guest-post-6-karen-lee-field/]] – January 2011
-"""
+[The Struggling Writer](https://strugglingwriter.wordpress.com/2013/07/07/the-pantser-the-plotter-and-the-inbetweener/) – July 2013 (as Karen Henderson)
+[Forty Adjectives and a Noun](https://fortyadjectives.blogspot.com/2013/07/tomorrows-virtual-book-tour-tomorrow.html) – July 2013 (as Karen Henderson)
+[The Word](https://www.alanbaxteronline.com/age-publishing-guest-post-6-karen-lee-field/) – January 2011
 
 ## Who is Karen Lee Field?
 
-You actually want to know more about me! Thank you, I’m flattered. Please go to the [[about me|About Me]] page.
+You actually want to know more about me! Thank you, I’m flattered. Please go to the [About Me](about-me) page.
 
 ## Credits
 
 Most of the icons used in this section of the website are courtesy of Wax Creative Designs.
 
-<div class="w3-small w3-center w3-padding-16">Last updated on 4 November 2024</div>
+<div style="text-align: center; text-size: small;">Last updated on 4 November 2024</div>
