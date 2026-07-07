@@ -25,7 +25,7 @@ All my books are available in paperback and various digital formats and are avai
 <p>released 11 December 2019<br>
 Adult Fiction, Fantasy</p>
 
-A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [Read more »](journey-to-freedom)
+A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [Read more »](./books/journey-to-freedom.md)
 
 Available in paperback and various digital formats.
 
