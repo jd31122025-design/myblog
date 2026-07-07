@@ -61,7 +61,7 @@ Available in paperback and various digital formats.
 <p>released 1 June 2018<br>
 Children’s Fiction (9+), Fantasy</p>
 
-When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](/myblog/_my-books/lion-gods.html)
+When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](/myblog/lion-gods)
 
 Available in paperback and various digital formats.
 
@@ -73,7 +73,7 @@ Available in paperback and various digital formats.
 <p>2nd edition released 22 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](/myblog/_my-books/kings-riddle)
+A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](/myblog/kings-riddle)
 
 Available in paperback and various digital formats.
 
@@ -85,7 +85,7 @@ Available in paperback and various digital formats.
 <p>3rd edition released 3 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](/_books/land-of-miu)
+A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](land-of-miu)
 
 Available in paperback and various digital formats.
 

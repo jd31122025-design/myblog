@@ -34,10 +34,6 @@ navbar-links:
 # --- Collections --- #
 #######################
 
-collections:
-  my-books:
-    output: true
-    permalink: /my-books/:path/
 
 ################
 # --- Logo --- #
