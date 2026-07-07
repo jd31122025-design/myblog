@@ -62,7 +62,7 @@ Available in paperback and various digital formats.
 <p>released 1 June 2018<br>
 Children’s Fiction (9+), Fantasy</p>
 
-When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](/myblog/_books/lion-gods)
+When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](/myblog/_books/lion-gods.html)
 
 Available in paperback and various digital formats.
 
