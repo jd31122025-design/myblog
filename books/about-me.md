@@ -5,7 +5,7 @@ title: About Me
 subtitle: This is where you can find out more about me.
 ---
 
-The Scribe is my online name (which I don’t seem to use much any more) and Karen Lee Field is my pen name. I mainly write fantasy stories for 9 to 12-year-olds, young adults and adults. I’ve dabbled in other genres as well as non-fiction, but nothing worthy of publication has come out of that dabbling to date. Occasionally, I will write a short story, but this type of writing isn’t a priority for me. As weird as it might sound, I find short stories harder to write than novel-length manuscripts. You can follow my progress by going to the [Works in Progress](./books/work-in-progress.md) page (I’ll try to keep in as up-to-date as possible).
+The Scribe is my online name (which I don’t seem to use much any more) and Karen Lee Field is my pen name. I mainly write fantasy stories for 9 to 12-year-olds, young adults and adults. I’ve dabbled in other genres as well as non-fiction, but nothing worthy of publication has come out of that dabbling to date. Occasionally, I will write a short story, but this type of writing isn’t a priority for me. As weird as it might sound, I find short stories harder to write than novel-length manuscripts. You can follow my progress by going to the [Works in Progress](work-in-progress.md) page (I’ll try to keep in as up-to-date as possible).
 
 In July 2008 I was involved in publishing an anthology – Speculative Realms: Where there’s a will, there’s a way. My story **Where Strength Lies** is included. [Find out more »](./books/speculative-realms.md)
 
