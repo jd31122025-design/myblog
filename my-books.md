@@ -133,23 +133,23 @@ To Assess or Not To Assess, That is the Question – published by The Scriptoriu
 
 ## Interviews and Guest Posts
 
-**Interviews**
+#### Interviews
+
 [Sherry D. Ramsey](http://www.sherrydramsey.com/?p=1965) – July 2013 (as Karen Henderson)
 Kayelle Press – October 2011
-
 Ripping Ozzie Reads – October 2011
-
 [Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009
 
-**Guest Blog Posts**
-<p>[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)<br>
+#### Guest Blog Posts
+
+[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)<br>
 Post-Apocalyptic Bookclub – July 2013 (as Karen Henderson; with Aric Sundquist)<br>
 Ramblings of a Rusty Writer – July 2013 (as Karen Henderson)<br>
 Words Out West – July 2013 (as Karen Henderson)<br>
 Graham Storrs – July 2013 (as Karen Henderson)<br>
 [The Struggling Writer](https://strugglingwriter.wordpress.com/2013/07/07/the-pantser-the-plotter-and-the-inbetweener/) – July 2013 (as Karen Henderson)<br>
 [Forty Adjectives and a Noun](https://fortyadjectives.blogspot.com/2013/07/tomorrows-virtual-book-tour-tomorrow.html) – July 2013 (as Karen Henderson)<br>
-The Word – January 2011</p>
+The Word – January 2011
 
 ## Who is Karen Lee Field?
 
@@ -159,4 +159,4 @@ You actually want to know more about me! Thank you, I’m flattered. Please go t
 
 Most of the icons used in this section of the website are courtesy of Wax Creative Designs.
 
-<div style="text-align: center; text-size: small;">Last updated on 4 November 2024</div>
+<div style="text-align: center; text-size: 8px;">Last updated on 4 November 2024</div>
