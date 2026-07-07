@@ -37,7 +37,7 @@ Available in paperback and various digital formats.
 <p>released 9 July 2019<br>
 Children’s Fiction (9+), Adventure</p>
 
-Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. [Read more »](house-onthe-hill)
+Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. [Read more »](./books/house-onthe-hill.md)
 
 Available in paperback and various digital formats.
 
@@ -49,7 +49,7 @@ Available in paperback and various digital formats.
 <p>released 7 January 2019<br>
 Adult, Dark Fiction</p>
 
-Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. [Read more »](domino-effect)
+Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. [Read more »](./books/domino-effect.md)
 
 Available in paperback and various digital formats.
 
@@ -61,7 +61,7 @@ Available in paperback and various digital formats.
 <p>released 1 June 2018<br>
 Children’s Fiction (9+), Fantasy</p>
 
-When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](lion-gods)
+When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](./books/lion-gods.md)
 
 Available in paperback and various digital formats.
 
@@ -73,7 +73,7 @@ Available in paperback and various digital formats.
 <p>2nd edition released 22 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](kings-riddle)
+A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](./books/kings-riddle.md)
 
 Available in paperback and various digital formats.
 
