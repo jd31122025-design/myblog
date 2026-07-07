@@ -136,8 +136,8 @@ To Assess or Not To Assess, That is the Question – published by The Scriptoriu
 #### Interviews
 
 [Sherry D. Ramsey](http://www.sherrydramsey.com/?p=1965) – July 2013 (as Karen Henderson)
-Kayelle Press – October 2011
-Ripping Ozzie Reads – October 2011
+Kayelle Press – October 2011<br>
+Ripping Ozzie Reads – October 2011<br>
 [Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009
 
 #### Guest Blog Posts
@@ -159,4 +159,4 @@ You actually want to know more about me! Thank you, I’m flattered. Please go t
 
 Most of the icons used in this section of the website are courtesy of Wax Creative Designs.
 
-<div style="text-align: center; text-size: 8px;">Last updated on 4 November 2024</div>
+<div style="text-align: center; font-size: 8px;">Last updated on 4 November 2024</div>
