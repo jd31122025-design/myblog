@@ -1,5 +1,5 @@
 ---
-permalink: /:output_ext
+permalink: /my-books/:path/
 layout: page
 title: The Lion Gods
 subtitle: The Land of Miu, Book 3

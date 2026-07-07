@@ -38,13 +38,6 @@ collections:
   my-books:
     output: true
     permalink: /my-books/:path/
-  for-readers:
-    output: true
-    permalink: /for-readers/:path/
-  for-writers:
-    output: true
-    permalink: /for-writers/:path/
-
 
 ################
 # --- Logo --- #
