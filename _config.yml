@@ -30,6 +30,10 @@ navbar-links:
   Archives: "archives"
   Contact: "contact"
 
+  include:
+    - _books
+    - _pages
+
 ################
 # --- Logo --- #
 ################
