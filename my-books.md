@@ -74,7 +74,7 @@ Available in paperback and various digital formats.
 <p>2nd edition released 22 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](kings-riddle)
+A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](/_books/kings-riddle)
 
 Available in paperback and various digital formats.
 
@@ -86,7 +86,7 @@ Available in paperback and various digital formats.
 <p>3rd edition released 3 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](/mybooks/land-of-miu)
+A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](/_books/land-of-miu)
 
 Available in paperback and various digital formats.
 
@@ -149,14 +149,14 @@ Kayelle Press – October 2011</p>
 <p>[Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009</p>
 
 **Guest Blog Posts**
-<p>[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)</p>
-<p>Post-Apocalyptic Bookclub – July 2013 (as Karen Henderson; with Aric Sundquist)</p>
-<p>Ramblings of a Rusty Writer – July 2013 (as Karen Henderson)</p>
-<p>Words Out West – July 2013 (as Karen Henderson)</p>
-<p>Graham Storrs – July 2013 (as Karen Henderson)</p>
-<p>[The Struggling Writer](https://strugglingwriter.wordpress.com/2013/07/07/the-pantser-the-plotter-and-the-inbetweener/) – July 2013 (as Karen Henderson)</p>
-<p>[Forty Adjectives and a Noun](https://fortyadjectives.blogspot.com/2013/07/tomorrows-virtual-book-tour-tomorrow.html) – July 2013 (as Karen Henderson)</p>
-<p>The Word – January 2011</p>
+<p>[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)<br>
+Post-Apocalyptic Bookclub – July 2013 (as Karen Henderson; with Aric Sundquist)<br>
+Ramblings of a Rusty Writer – July 2013 (as Karen Henderson)<br>
+Words Out West – July 2013 (as Karen Henderson)<br>
+Graham Storrs – July 2013 (as Karen Henderson)<br>
+[The Struggling Writer](https://strugglingwriter.wordpress.com/2013/07/07/the-pantser-the-plotter-and-the-inbetweener/) – July 2013 (as Karen Henderson)<br>
+[Forty Adjectives and a Noun](https://fortyadjectives.blogspot.com/2013/07/tomorrows-virtual-book-tour-tomorrow.html) – July 2013 (as Karen Henderson)<br>
+The Word – January 2011</p>
 
 ## Who is Karen Lee Field?
 
