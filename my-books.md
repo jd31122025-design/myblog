@@ -1,9 +1,7 @@
 ---
-permalink: /my-books
 layout: page
 title: My Books
 subtitle: If you're looking for a new book to read, maybe I can tempt you.
-category: my-books
 ---
 The headings on this page include:
 * TOC
