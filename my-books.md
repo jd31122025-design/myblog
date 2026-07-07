@@ -85,7 +85,7 @@ Available in paperback and various digital formats.
 <p>3rd edition released 3 May 2015<br>
 Children’s Fiction (9+), Fantasy</p>
 
-A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](land-of-miu)
+A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](./books/land-of-miu.md)
 
 Available in paperback and various digital formats.
 
