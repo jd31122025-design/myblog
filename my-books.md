@@ -91,49 +91,41 @@ Available in paperback and various digital formats.
 
 ## Anthologies
 
-<div class="row">
-  <div class="column1">[img[hopecover800x530-133x200-1.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[Hope: An Anthology of Speculative Fiction to Help Raise Suicide Awareness]]</h4>
-Edited by Sasha Beattie
-Released 7 October 2011, out of print 31 December 2014
+![Hope Anthology](/assets/img/Hope-188wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
-Thirteen Australian speculative fiction writers take you from the great unknown of our own planet, to the stars, and beyond to mystical fantasy worlds. Includes my story “Boundaries”. [[Read more »|Hope: An Anthology of Speculative Fiction to Help Raise Suicide Awareness]]
+**Hope: An Anthology of Speculative Fiction to Help Raise Suicide Awareness**
+<p>Edited by Sasha Beattie<br>
+Released 7 October 2011, out of print 31 December 2014</p>
+
+Thirteen Australian speculative fiction writers take you from the great unknown of our own planet, to the stars, and beyond to mystical fantasy worlds. Includes my story “Boundaries”. [Read more »](./books/hope-anthology.md)
 
 Published by Kayelle Press.
-"""
-</div>
-</div>
-<hr>
-<div class="row">
-  <div class="column1">[img width="133"[11380012.jpg]]</div>
-  <div class="column2">"""
-<h4>[[100 Stories for Queensland]]</h4>
-Released May 2011
 
-This anthology has something for everyone, from slice of life to science fiction, fantasy to romance, paranormal to literary fiction. Includes my story “Amunet’s Gift”. [[Read more »|100 Stories for Queensland]]
+<hr>
+
+![100 Stories for Queensland](/assets/img/storiesforqld.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
+
+**100 Stories for Queensland**
+<p>Released May 2011</p>
+
+This anthology has something for everyone, from slice of life to science fiction, fantasy to romance, paranormal to literary fiction. Includes my story “Amunet’s Gift”. [Read more »](./books/100-stories.md)
 
 All profits donated to the Queensland Premier’s Flood Relief Appeal.
 
 Published by eMergent Publishing.
-"""</div>
-</div>
+
 <hr>
-<div class="row">
-  <div class="column1">[img[speculative-realms-cover-small.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[Speculative Realms: Where there’s a will, there’s a way]]</h4>
-Edited by Sasha Beattie
-Released July 2008, out of print 31 December 2014
+
+![Speculative Realms](/assets/img/speculativerealms.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
+
+**Speculative Realms: Where there’s a will, there’s a way**
+<p>Edited by Sasha Beattie<br>
+Released July 2008, out of print 31 December 2014</p>
 
 If you want something badly enough, you will find the means to get it. Let demons, mages, technology and love show you the way.
 
-A collection of fantasy, science fiction and horror stories, including my story “Where Strength Lies”. [[Read more »|Speculative Realms: Where there’s a will, there’s a way]]
-"""
-</div>
-</div>
+A collection of fantasy, science fiction and horror stories, including my story “Where Strength Lies”. [Read more »](./books/speculative-realms.md)
+
 
 ## Articles
 
@@ -142,10 +134,12 @@ To Assess or Not To Assess, That is the Question – published by The Scriptoriu
 ## Interviews and Guest Posts
 
 **Interviews**
-<p>[Sherry D. Ramsey](http://www.sherrydramsey.com/?p=1965) – July 2013 (as Karen Henderson)
-Kayelle Press – October 2011</p>
-<p>Ripping Ozzie Reads – October 2011</p>
-<p>[Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009</p>
+[Sherry D. Ramsey](http://www.sherrydramsey.com/?p=1965) – July 2013 (as Karen Henderson)
+Kayelle Press – October 2011
+
+Ripping Ozzie Reads – October 2011
+
+[Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009
 
 **Guest Blog Posts**
 <p>[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)<br>
