@@ -26,7 +26,7 @@ All my books are available in paperback and various digital formats and are avai
 <p>released 11 December 2019<br>
 Adult Fiction, Fantasy</p>
 
-A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? Read more »
+A mini fantasy collection. Four stories with common themes of oppression and struggle. The main characters crave freedom, but can they find what they are looking for? [Read more »](journey-to-freedom)
 
 Available in paperback and various digital formats.
 
@@ -38,7 +38,7 @@ Available in paperback and various digital formats.
 <p>released 9 July 2019<br>
 Children’s Fiction (9+), Adventure</p>
 
-Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. Read more »
+Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill. [Read more »](house-onthe-hill)
 
 Available in paperback and various digital formats.
 
@@ -50,7 +50,7 @@ Available in paperback and various digital formats.
 <p>released 7 January 2019<br>
 Adult, Dark Fiction</p>
 
-Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. Read more »
+Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person’s decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author’s real experiences. [Read more »](domino-effect)
 
 Available in paperback and various digital formats.
 
@@ -62,43 +62,35 @@ Available in paperback and various digital formats.
 <p>released 1 June 2018<br>
 Children’s Fiction (9+), Fantasy</p>
 
-When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? Read more »
+When Princess Alara is informed Manu has been struck by a deadly fever, she is told to find Aker, who can provide an antidote. But is Aker just a myth? [Read more »](lion-gods)
 
 Available in paperback and various digital formats.
 
 <hr>
 
-<div class="row">
-  <div class="column1">[img[TheKingsRiddle.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[The King’s Riddle (Land of Miu, #2, 2nd ed.)]]</h4>
-2nd edition released 22 May 2015
-Children’s Fiction (9+), Fantasy
+![The King's Riddle](/assets/img/KingsRiddle-200wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
 
-A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [[Read more »|The King’s Riddle (Land of Miu, #2, 2nd ed.)]]
+**The King’s Riddle (Land of Miu, #2, 2nd ed.)**
+<p>2nd edition released 22 May 2015<br>
+Children’s Fiction (9+), Fantasy</p>
+
+A Miuan princess and her guard-in-training have activated the volcano deep beneath the tunnels in which they live and must solve an ancient riddle to save the people of Miu. [Read more »](kings-riddle)
 
 Available in paperback and various digital formats.
-"""
-</div>
-</div>
+
 <hr>
-<div class="row">
-  <div class="column1">[img[TheLandofMiu.jpg]]</div>
-  <div class="column2">
-"""
-<h4>[[The Land of Miu (Land of Miu, #1, 3rd ed.)]]</h4>
-3rd edition released 3 May 2015
-Children’s Fiction (9+), Fantasy
 
-A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [[Read more »|The Land of Miu (Land of Miu, #1, 3rd ed.)]]
+![The Land of Miu](/assets/img/LandOfMiu-199wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
+
+**The Land of Miu (Land of Miu, #1, 3rd ed.)**
+<p>3rd edition released 3 May 2015<br>
+Children’s Fiction (9+), Fantasy</p>
+
+A pre-teen must protect the source of her anger and jealousy when she finds herself in the mystical, and dangerous, Land of Miu. [Read more »](/mybooks/land-of-miu)
 
 Available in paperback and various digital formats.
-"""
-</div>
-</div>
 
-<h2 class="mybooks">Anthologies</h2>
+## Anthologies
 
 <div class="row">
   <div class="column1">[img[hopecover800x530-133x200-1.jpg]]</div>
@@ -151,20 +143,20 @@ To Assess or Not To Assess, That is the Question – published by The Scriptoriu
 ## Interviews and Guest Posts
 
 **Interviews**
-[Sherry D. Ramsey](http://www.sherrydramsey.com/?p=1965) – July 2013 (as Karen Henderson)
-Kayelle Press – October 2011
-Ripping Ozzie Reads – October 2011
-[Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009
+<p>[Sherry D. Ramsey](http://www.sherrydramsey.com/?p=1965) – July 2013 (as Karen Henderson)
+Kayelle Press – October 2011</p>
+<p>Ripping Ozzie Reads – October 2011</p>
+<p>[Allie’s Musings](http://allieboniface.blogspot.com/2009/03/weekend-featured-author-interview-karen.html) – March 2009</p>
 
 **Guest Blog Posts**
-[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)
-Post-Apocalyptic Bookclub – July 2013 (as Karen Henderson; with Aric Sundquist)
-Ramblings of a Rusty Writer – July 2013 (as Karen Henderson)
-Words Out West – July 2013 (as Karen Henderson)
-Graham Storrs – July 2013 (as Karen Henderson)
-[The Struggling Writer](https://strugglingwriter.wordpress.com/2013/07/07/the-pantser-the-plotter-and-the-inbetweener/) – July 2013 (as Karen Henderson)
-[Forty Adjectives and a Noun](https://fortyadjectives.blogspot.com/2013/07/tomorrows-virtual-book-tour-tomorrow.html) – July 2013 (as Karen Henderson)
-[The Word](https://www.alanbaxteronline.com/age-publishing-guest-post-6-karen-lee-field/) – January 2011
+<p>[Paul Liadis](https://www.paulliadis.com/blog/2013/07/its-not-personal-but/) – July 2013 (as Karen Henderson)</p>
+<p>Post-Apocalyptic Bookclub – July 2013 (as Karen Henderson; with Aric Sundquist)</p>
+<p>Ramblings of a Rusty Writer – July 2013 (as Karen Henderson)</p>
+<p>Words Out West – July 2013 (as Karen Henderson)</p>
+<p>Graham Storrs – July 2013 (as Karen Henderson)</p>
+<p>[The Struggling Writer](https://strugglingwriter.wordpress.com/2013/07/07/the-pantser-the-plotter-and-the-inbetweener/) – July 2013 (as Karen Henderson)</p>
+<p>[Forty Adjectives and a Noun](https://fortyadjectives.blogspot.com/2013/07/tomorrows-virtual-book-tour-tomorrow.html) – July 2013 (as Karen Henderson)</p>
+<p>The Word – January 2011</p>
 
 ## Who is Karen Lee Field?
 
