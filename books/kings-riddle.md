@@ -33,7 +33,7 @@ Paperback version:
 
 Digital version:
 
-[Kindle](https://www.amazon.com.au/Kings-Riddle-Land-Miu-ebook/dp/B007767JSQ/)&nbsp;&bull;&nbsp;[Smashword](https://www.smashwords.com/books/view/544950)&nbsp;&bull;&nbsp;[Noo](https://www.kobo.com/au/en/ebook/the-king-s-riddle-the-land-of-miu-2)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_King_s_Riddle_The_Land_of_Miu?id=Nc1qDwAAQBAJ)
+[Kindle](https://www.amazon.com.au/Kings-Riddle-Land-Miu-ebook/dp/B007767JSQ/)&nbsp;&bull;&nbsp;[Smashword](https://www.smashwords.com/books/view/544950)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/the-king-s-riddle-the-land-of-miu-2)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_King_s_Riddle_The_Land_of_Miu?id=Nc1qDwAAQBAJ)
 
 ## Review request
 

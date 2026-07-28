@@ -29,11 +29,11 @@ When Princess Alara is informed Manu has been struck by a deadly fever, she is t
 
 Paperback version:
 
-[[Amazon|https://www.amazon.com.au/Lion-Gods-Book-Land-Miu/dp/0994336292/]]
+[Amazon](https://www.amazon.com.au/Lion-Gods-Book-Land-Miu/dp/0994336292/)
 
 Digital version:
 
-[[Kindle|https://www.amazon.com.au/Lion-Gods-Book-Land-Miu-ebook/dp/B07D1M3PH5/]] | [[Smashwords|https://www.smashwords.com/books/view/826680]] | [[Nook|https://www.kobo.com/au/en/ebook/the-lion-gods-the-land-of-miu-3]] | [[Google Books|https://play.google.com/store/books/details/Karen_Lee_Field_The_Lion_Gods_The_Land_of_Miu_3?id=P81qDwAAQBAJ]]
+[Kindle](https://www.amazon.com.au/Lion-Gods-Book-Land-Miu-ebook/dp/B07D1M3PH5/)&nbsp;&bull;&nbsp;[Smashwords](https://www.smashwords.com/books/view/826680)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/the-lion-gods-the-land-of-miu-3)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_Lion_Gods_The_Land_of_Miu_3?id=P81qDwAAQBAJ)
 
 ## Review Request
 
