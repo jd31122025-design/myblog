@@ -3,7 +3,7 @@ layout: page
 title: The Land of Miu
 subtitle: The Land of Miu, Book 1
 ---
-![The Land of Miu](img/LandOfMiu-300wide2.jpg){: height="339px" width="300px" style="float: left; padding-right: 10px;" }
+![The Land of Miu](/img/LandOfMiu-300wide2.jpg){: height="339px" width="300px" style="float: left; padding-right: 10px;" }
 
 <p><b>Title:</b> The Land of Miu (Land of Miu, #1, 3rd ed.)<br>
 <b>Series:</b> The Land of Miu #3<br>
