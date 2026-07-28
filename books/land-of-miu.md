@@ -5,19 +5,19 @@ subtitle: The Land of Miu, Book 1
 ---
 ![The Land of Miu](/assets/img/LandOfMiu-300wide2.jpg){: height="339px" width="300px" style="float: left; padding-right: 10px;" }
 
-<p>**Title:** The Land of Miu (Land of Miu, #1, 3rd ed.)<br>
-**Series:** The Land of Miu #3<br>
-**Author:** Karen Lee Field</p>
+<p><b>Title:</b> The Land of Miu (Land of Miu, #1, 3rd ed.)</br>
+<b>Series:</b> The Land of Miu #3</br>
+<b>Author:</b> Karen Lee Field</p>
 
 <p style="font-weight: bold; color: #5778d8; font-size: 18px;">AU$Free</p>
 
-**Publication Date:** 3 May 2015
-**ISBN13:** 978-0-9943362-0-0
-**ASIN:** ?? (kindle edition)
-**Edition:** 3rd
-**Genre:** Children's Fiction (9+), Fantasy
-**Formats:** paperback, epub, mobi, pdf
-**Pages:** 154
+<p><b>Publication Date:</b> 3 May 2015</br>
+<b>ISBN13:</b> 978-0-9943362-0-0</br>
+<b>ASIN:</b> ?? (kindle edition)</br>
+<b>Edition:</b> 3rd</br>
+<b>Genre:</b> Children's Fiction (9+), Fantasy</br>
+<b>Formats:</b> paperback, epub, mobi, pdf</br>
+<b>Pages:</b> 154</p>
 
 Originally published with the title "Cat's Eyes", this book was republished with a new title on 25 November 2011. The title is “The Land of Miu”.
 
@@ -35,7 +35,7 @@ Paperback version (which is not free, by the way):
 
 Digital version (which is free everywhere, except Kindle):
 
-[Kindle](https://www.amazon.com.au/Land-Miu-Book-ebook/dp/B006DNYO0A/) | [Smashwords](https://www.smashwords.com/books/view/540030) | [Nook](https://www.kobo.com/au/en/ebook/the-land-of-miu-3rd-edition) | [Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_Land_of_Miu_The_Land_of_Miu_1?id=18xqDwAAQBAJ)
+[Kindle](https://www.amazon.com.au/Land-Miu-Book-ebook/dp/B006DNYO0A/)&nbsp;&bull;&nbsp;[Smashwords](https://www.smashwords.com/books/view/540030)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/the-land-of-miu-3rd-edition)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_Land_of_Miu_The_Land_of_Miu_1?id=18xqDwAAQBAJ)
 
 ## Review Request
 
