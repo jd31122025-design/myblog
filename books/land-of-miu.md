@@ -3,13 +3,13 @@ layout: page
 title: The Land of Miu
 subtitle: The Land of Miu, Book 1
 ---
-![The Land of Miu](/assets/img/LandOfMiu-199wide.jpg){: height="283px" width="188px" style="float: left; padding-right: 10px;" }
+![The Land of Miu](/assets/img/LandOfMiu-300wide2.jpg){: height="339px" width="300px" style="float: left; padding-right: 10px;" }
 
-**Title:** The Land of Miu (Land of Miu, #1, 3rd ed.)
-**Series:** The Land of Miu #3
-**Author:** Karen Lee Field
+<p>**Title:** The Land of Miu (Land of Miu, #1, 3rd ed.)<br>
+**Series:** The Land of Miu #3<br>
+**Author:** Karen Lee Field</p>
 
-<span class="price">AU$Free</span>
+<p style="font-weight: bold; color: #5778d8; font-size: 18px;">AU$Free</p>
 
 **Publication Date:** 3 May 2015
 **ISBN13:** 978-0-9943362-0-0

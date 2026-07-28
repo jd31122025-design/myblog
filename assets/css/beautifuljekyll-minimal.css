@@ -2,12 +2,6 @@
   padding-bottom: 3.125rem;
 }
 
-span.price {
-    font-weight: bold;
-    color: #5778d8;
-    font-size: 18px;
-}
-
 footer.footer-min {
   position: fixed;
   bottom: 0;
