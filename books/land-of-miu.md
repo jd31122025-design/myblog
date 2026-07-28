@@ -9,7 +9,7 @@ subtitle: The Land of Miu, Book 1
 <b>Series:</b> The Land of Miu #3<br>
 <b>Author:</b> Karen Lee Field</p>
 
-<p style="font-weight: bold; color: #5778d8; font-size: 18px;">AU$Free</p>
+<p style="font-weight: bold; color: #5778d8; font-size: 20px;">AU$Free</p>
 
 <p><b>Publication Date:</b> 3 May 2015<br>
 <b>ISBN13:</b> 978-0-9943362-0-0<br>

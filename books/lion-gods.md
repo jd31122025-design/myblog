@@ -9,7 +9,7 @@ subtitle: The Land of Miu, Book 3
 <b>Series:</b> The Land of Miu #3<br>
 <b>Author:</b> Karen Lee Field</p>
 
-<p style="font-weight: bold; color: #5778d8; font-size: 18px;">AU$1.99</p>
+<p style="font-weight: bold; color: #5778d8; font-size: 20px;">AU$1.99</p>
 
 <p><b>Publication Date:</b> 1 June 2018<br>
 <b>ISBN13:</b> 978-0-9943362-2-4<br>
