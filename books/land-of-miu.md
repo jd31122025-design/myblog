@@ -27,7 +27,7 @@ Originally published with the title "Cat's Eyes", this book was republished with
 
 One morning, Emma disappears down a mystical looking well. Irritated but worried, Kate follows and the two girls are thrust into the tunnels of Miu, an unknown place built within the lava tunnels of an extinct volcano. They meet a young Miuan princess and her guard, who are on the run, and the girls are instantly swept into a danger that will test their skills, their friendship and their love.
 
-## Where to Get Your FREE Copy
+## Where to get your FREE copy
 
 Paperback version (which is not free, by the way):
 
@@ -37,11 +37,11 @@ Digital version (which is free everywhere, except Kindle):
 
 [Kindle](https://www.amazon.com.au/Land-Miu-Book-ebook/dp/B006DNYO0A/)&nbsp;&bull;&nbsp;[Smashwords](https://www.smashwords.com/books/view/540030)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/the-land-of-miu-3rd-edition)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_Land_of_Miu_The_Land_of_Miu_1?id=18xqDwAAQBAJ)
 
-## Review Request
+## Review request
 
 If you have read the book, please take a moment to write a review and post it on the online bookstore where you purchased it and/or at Goodreads. I would be extremely grateful for your time and your opinion. Thank you.
 
-### Reviews:
+#### Reviews:
 
 _Posted by Anonymous on the Nook bookstore..._
 I really really loved this book it was awesome! I loved the action in it and sometimes i could feel my whole body tense up.
