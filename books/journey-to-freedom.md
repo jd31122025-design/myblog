@@ -3,6 +3,8 @@ layout: page
 title: Journey to Freedom
 subtitle: A mini-fantasy collection of short stories
 ---
+<img src="{{ 'assets/img/JourneyToFreedom-188wide2.jpg' | relative_url }}" alt="Journey to Freedom"  />
+
 <div class="row">
   <div class="column1">[img[Journey-To-Freedom_small-mockup.jpg]]</div>
   <div class="column2">"""

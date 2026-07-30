@@ -3,7 +3,7 @@ layout: page
 title: The King's Riddle
 subtitle: The Land of Miu, Book 2
 ---
-![The King's Riddle]({{/assets/img/KingsRiddle-300wide2.jpg | relative_url }}){: height="339px" width="300px" style="float: left; padding-right: 10px;" }
+<img src="{{ 'assets/img/KingsRiddle-300wide2.jpg' | relative_url }}" alt="The King's Riddle"  />
 
 <p><b>Title:</b> The King's Riddle (The Land of Miu, #2, 2nd Ed.)<br>
 <b>Series:</b> The Land of Miu #2<br>

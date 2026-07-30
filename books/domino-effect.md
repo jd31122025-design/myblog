@@ -3,6 +3,8 @@ layout: page
 title: Domino Effect
 subtitle: A dark novel based on real emotions
 ---
+<img src="{{ 'assets/img/DominoEffect-188wide.jpg' | relative_url }}" alt="Domino Effect"  />
+
 <div class="row">
   <div class="column1">[img[DominoEffect-Paperback&ebook-mockup-narrow.jpg]]</div>
   <div class="column2">"""
