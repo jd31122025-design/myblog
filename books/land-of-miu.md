@@ -3,7 +3,7 @@ layout: page
 title: The Land of Miu
 subtitle: The Land of Miu, Book 1
 ---
-<img src="{{ 'assets/img/LandofMiu-300wide2.jpg' | relative_url }}" alt="The Land of Miu"  />
+<img src="{{ 'assets/img/LandofMiu-300wide2.jpg' | relative_url }}" alt="The Land of Miu" style="float: left; padding-right: 10px;" />
 
 <p><b>Title:</b> The Land of Miu (Land of Miu, #1, 3rd ed.)<br>
 <b>Series:</b> The Land of Miu #3<br>
