@@ -30,7 +30,7 @@ Tim, his older brother, is angry. He wants to be as far away from his family as 
 
 Domino Effect, is a dark novel showing a family in despair after a loved one dies by suicide and the effect one person's decision has on those left behind. The story is fictitious, but the emotions and some of the scenes are based on the author's real experiences.
 
-## Where to Purchase Your Copy
+## Where to purchase your copy
 
 Paperback version:
 
@@ -40,10 +40,6 @@ Digital version:
 
 [Kindle](https://www.amazon.com.au/Domino-Effect-Karen-Lee-Field-ebook/dp/B07KMV7H83/)&nbsp;&bull;&nbsp;[Smashwords](https://www.smashwords.com/books/view/947607)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/domino-effect-8)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_Domino_Effect?id=5Ei5DwAAQBAJ)
 
-## Review Request
+## Review request
 
-If you have read the book, please take a moment to write a review and post it on the online bookstore where you purchased it and/or at Goodreads. I would be extremely grateful for your time and your opinion. Thank you.
-
-## Reviews
-
-Coming soon.
+If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on [Goodreads](https://www.goodreads.com/) and [LibraryThing](https://www.librarything.com). I would be extremely grateful for your time and your opinion. Thank you.

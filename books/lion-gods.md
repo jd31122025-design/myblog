@@ -35,10 +35,6 @@ Digital version:
 
 [Kindle](https://www.amazon.com.au/Lion-Gods-Book-Land-Miu-ebook/dp/B07D1M3PH5/)&nbsp;&bull;&nbsp;[Smashwords](https://www.smashwords.com/books/view/826680)&nbsp;&bull;&nbsp;[Nook](https://www.kobo.com/au/en/ebook/the-lion-gods-the-land-of-miu-3)&nbsp;&bull;&nbsp;[Google Books](https://play.google.com/store/books/details/Karen_Lee_Field_The_Lion_Gods_The_Land_of_Miu_3?id=P81qDwAAQBAJ)
 
-## Review Request
+## Review request
 
-If you have read the book, please take a moment to write a review and post it on the online bookstore where you purchased it and/or at Goodreads. I would be extremely grateful for your time and your opinion. Thank you.
-
-#### Reviews:
-
-Coming soon.
+If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on [Goodreads](https://www.goodreads.com/) and [LibraryThing](https://www.librarything.com). I would be extremely grateful for your time and your opinion. Thank you.

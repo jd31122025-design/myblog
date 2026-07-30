@@ -3,7 +3,7 @@ layout: page
 title: Journey to Freedom
 subtitle: A mini-fantasy collection of short stories
 ---
-<img src="{{ 'assets/img/JourneyToFreedom-188wide2.jpg' | relative_url }}" alt="Journey to Freedom"  />{:style="display:block; margin-left:auto; margin-right:auto"}
+<img src="{{ 'assets/img/JourneyToFreedom-283wide2.jpg' | relative_url }}" alt="Journey to Freedom"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 
 <p><b>Title:</b> Journey to Freedom: A mini-fantasy collection<br>
 <b>Author:</b> Karen Lee Field</p>
@@ -30,7 +30,7 @@ Left for dead by his master, a slave dares to cross magical boundaries to find l
 
 But what is freedom, and will they be able to find what they are looking for?
 
-## Available from:
+## Available from
 
 Paperback version:
 

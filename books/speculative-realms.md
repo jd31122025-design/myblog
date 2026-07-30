@@ -73,10 +73,10 @@ Aboard the most powerful warship in the galaxy, a soldier must sacrifice what he
 
 A desperate prince will use one of Egypt's darkest secrets to try and turn back bronze-wielding invaders.
 
-## Available from:
+## Available from
 
 This book is out of print and is no longer available for purchase.
 
-## Review Request
+## Review request
 
-If you've read the book, please take a moment to write a review and post it on the Amazon page. The other authors and I would be extremely grateful for your time and your opinion. Thank you.
+If you’ve read the book, please take a moment to write a review and post it at the bookstore where you purchased the book and/or on [Goodreads](https://www.goodreads.com/) and [LibraryThing](https://www.librarything.com). I would be extremely grateful for your time and your opinion. Thank you.

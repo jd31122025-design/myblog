@@ -27,7 +27,7 @@ Suicide happens on a daily basis. It can affect you. Are you suicide aware?
 
 Everything in this anthology is donated by Australians to help raise suicide awareness. All profits were donated to Beyond Blue Australia.
 
-## Available from:
+## Available from
 
 This book is out of print and is no longer available for purchase.       
 

@@ -23,11 +23,11 @@ category: [My Books]
 
 100% of the profit from the sale of the anthology will be donated to the Queensland Premier’s Flood Relief Appeal.
 
-## Available from:
+## Available from
 
 This book is out of print and is no longer available for purchase.
 
-## Reviews:
+#### Reviews:
 
 "One hundred beautiful stories. Our stories. When so much was lost or destroyed, this was created. That’s something that can never recede or wash away."
 _Kate Eltham, CEO of The Queensland Writers Centre_

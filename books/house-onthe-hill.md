@@ -20,7 +20,7 @@ subtitle: A Cat and Mouse Adventure
 
 **Description:** Eleven-year-old twins, Cat and Mouse, crave adventure but when the school bully talks them into taking a ride on a dodgy-looking canoe, they know it can only lead to disaster. Proven right, they must learn how to deal with the bully and the man who lives in the sinister house on the hill.
 
-## Available from:
+## Available from
 
 Paperback version:
 
