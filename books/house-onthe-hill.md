@@ -5,7 +5,7 @@ subtitle: A Cat and Mouse Adventure
 ---
 <img src="{{ 'assets/img/HouseontheHill-300wide2.jpg' | relative_url }}" alt="House on the Hill"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 
-<p><b>''Title:</b> House on the Hill: A Cat and Mouse Adventure<br>
+<p><b>Title:</b> House on the Hill: A Cat and Mouse Adventure<br>
 <b>Author:</b> Karen Lee Field</p>
 
 <p style="font-weight: bold; color: #5778d8; font-size: 20px;">AU$1.49</p>
