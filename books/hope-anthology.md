@@ -5,9 +5,9 @@ subtitle: An anthology to raise suicide awareness
 ---
 <img src="{{ 'assets/img/Hope-188wide.jpg' | relative_url }}" alt="Hope" />{:style="display:block; margin-left:auto; margin-right:auto"}
 
-<p><b>Title:</b> Hope: An Anthology of Speculative Fiction to Help Raise Suicide Awareness
-<b>Author:'' Various Australian authors
-<b>Edited by:'' Sasha Beattie
+<p><b>Title:</b> Hope: An Anthology of Speculative Fiction to Help Raise Suicide Awareness<br>
+<b>Author:</b> Various Australian authors<br>
+<b>Edited by:</b> Sasha Beattie</p>
 
 <p><b>Publication Date:</b> 7 October 2011, out of print 31 December 2014<br>
 <b>Publisher:</b> Kayelle Press<br>
