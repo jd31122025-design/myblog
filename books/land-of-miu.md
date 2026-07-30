@@ -3,7 +3,7 @@ layout: page
 title: The Land of Miu
 subtitle: The Land of Miu, Book 1
 ---
-<img src="{{ 'assets/img/landofmiu-300wide2.jpg' | relative_url }}" alt="The Land of Miu" />
+<img src="{{ 'assets/img/404-southpark.jpg' | relative_url }}" alt="The Land of Miu" />
 
 ![The Land of Miu]({{ 'assets/img/landofmiu-300wide2.jpg' | relative_url }}){: height="339px" width="300px" style="float: left; padding-right: 10px;" }
 
