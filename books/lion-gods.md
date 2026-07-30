@@ -3,7 +3,7 @@ layout: page
 title: The Lion Gods
 subtitle: The Land of Miu, Book 3
 ---
-![The Lion Gods]({{/assets/img/LionGods-300wide2.jpg | relative_url }}){: height="339px" width="300px" style="float: left; padding-right: 10px;" }
+<img src="{{ 'assets/img/LionGods-300wide2.jpg' | relative_url }}" alt="The Lion Gods" />{:style="display:block; margin-left:auto; margin-right:auto"}
 
 <p><b>Title:</b> The Lion Gods (Land of Miu, #3)<br>
 <b>Series:</b> The Land of Miu #3<br>

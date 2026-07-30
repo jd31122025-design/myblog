@@ -2,7 +2,6 @@
 layout: page
 title: The King's Riddle
 subtitle: The Land of Miu, Book 2
-image: assets/img/KingsRiddle-300wide2.jpg
 ---
 <img src="{{ 'assets/img/KingsRiddle-300wide2.jpg' | relative_url }}" alt="The King's Riddle"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 

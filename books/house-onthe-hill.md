@@ -3,7 +3,7 @@ layout: page
 title: House on the Hill
 subtitle: A Cat and Mouse Adventure
 ---
-<img src="{{ 'assets/img/HouseontheHill-300wide2.jpg' | relative_url }}" alt="House on the Hill"  />
+<img src="{{ 'assets/img/HouseontheHill-300wide2.jpg' | relative_url }}" alt="House on the Hill"  />{:style="display:block; margin-left:auto; margin-right:auto"}
 
 <div class="row">
   <div class="column1">[img[HouseontheHill-Paperback&EbookMockup-narrow.jpg]]</div>
