@@ -2,7 +2,6 @@
 layout: page
 title: 100 Stories for Queensland
 subtitle: An anthology for charity
-category: [My Books]
 ---
 <img src="{{ 'assets/img/storiesforqld.jpg' | relative_url }}" alt="Stories for Queensland" />{:style="display:block; margin-left:auto; margin-right:auto"}
 

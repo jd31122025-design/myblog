@@ -1,5 +1,4 @@
 ---
-permalink: /about-me
 layout: page
 title: About Me
 subtitle: This is where you can find out more about me.

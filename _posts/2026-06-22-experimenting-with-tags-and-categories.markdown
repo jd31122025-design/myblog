@@ -2,7 +2,6 @@
 layout: post
 title:  "Experimenting with Tags and Categories"
 date:   2026-06-22
-categories: [blog]
 tags: [books, scenes]
 ---
 I've read that if I add tags and categories, they will show up somewhere on the pages. Not sure where. Maybe I have to add more code and, if so, then I'm screwed.

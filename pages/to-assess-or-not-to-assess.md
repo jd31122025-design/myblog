@@ -2,7 +2,6 @@
 layout: page
 title: To Assess or Not to Assess
 subtitle: An article
-category: [My Books]
 ---
 
 {: .box-note}
