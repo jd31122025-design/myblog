@@ -37,6 +37,9 @@ collections:
   author-interviews:
     output: true
     permalink: /:collection/:categories:output_ext
+  book-reviews:
+    output: true
+    permalink: /:collection/:categories:output_ext
 
 
 ################
