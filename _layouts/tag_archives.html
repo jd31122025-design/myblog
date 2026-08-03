@@ -1,0 +1,14 @@
+{% raw %}
+---
+layout: default
+---
+<h1>Posts in {{ page.type | capitalize }} “{{ page.title }}”</h1>
+
+<ul class="post-list">
+  {% for post in page.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+{% endraw %}

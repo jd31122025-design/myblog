@@ -33,13 +33,16 @@ navbar-links:
 # --- Collections --- #
 #######################
 
-collections:
-  author-interviews:
-    output: true
-    permalink: /:collection/:categories:output_ext
-  book-reviews:
-    output: true
-    permalink: /:collection/:categories:output_ext
+jekyll-archives:
+  enabled:
+    - tags
+    - categories
+  layouts:
+    tag: tag_archive
+    category: category_archive
+  permalinks:
+    tag: '/tags/:name/'
+    category: '/categories/:name/'
 
 
 ################
@@ -315,6 +318,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

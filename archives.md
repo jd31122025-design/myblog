@@ -1,35 +1,19 @@
+{% raw %}
 ---
 layout: page
-title: 'Archives'
-subtitle: A list of all posts and tags used on this site.
+title: "Post Archive by Tag"
+permalink: /tags/
 ---
-The headings on this page include:
-* TOC
-{:toc}
+<h1>All Tags</h1>
 
-Sometimes it is fun to go back and read old posts. If you enjoy doing that, then this page is for you. 
-It lists all the tags used on this site, and under each tag, it lists all the posts that have that tag. 
-You can click on any post title to read that post.
-
-## Search by Tag:
-
-<ul>
-  {% assign tags_list = site.tags | sort %}
-  {% for tag in tags_list %}
-    <li>
-      <a href="/tag/{{ tag[0] | slugify }}/">
-        {{ tag[0] }} ({{ tag[1].size }})
-      </a>
-    </li>
-  {% endfor %}
-</ul>
-
-## Search by Post:
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href=".{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+  {% assign tag_name = tag | first %}
+  <h2 id="{{ tag_name | slugify }}">{{ tag_name }}</h2>
+  <ul class="post-list">
+    {% for post in site.tags[tag_name] %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+{% endraw %}
