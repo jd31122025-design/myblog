@@ -7,7 +7,7 @@ subtitle: Book Reviews and Author Interviews
 
 The headings on this page include:
 
-* [Author Interviews](./pages/author-interviews.md)
+* [Author Interviews](./for-readers/author-interviews.md)
 * Book Reviews
 * Book Review Policy
 
