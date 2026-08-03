@@ -1,4 +1,3 @@
-{% raw %}
 ---
 layout: page
 title: "Post Archive by Tag"
@@ -16,4 +15,3 @@ permalink: /tags/
     {% endfor %}
   </ul>
 {% endfor %}
-{% endraw %}
