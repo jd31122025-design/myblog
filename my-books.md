@@ -129,7 +129,7 @@ A collection of fantasy, science fiction and horror stories, including my story 
 
 ## Articles
 
-To Assess or Not To Assess, That is the Question – published by The Scriptorium in June 2003
+[To Assess or Not To Assess, That is the Question](./pages/to-assess-or-not-to-assess.md) – published by The Scriptorium in June 2003
 
 ## Interviews and Guest Posts
 
