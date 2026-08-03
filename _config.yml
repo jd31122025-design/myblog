@@ -33,6 +33,11 @@ navbar-links:
 # --- Collections --- #
 #######################
 
+collections:
+  author-interviews:
+    output: true
+    permalink: /:collection/:categories:output_ext
+
 
 ################
 # --- Logo --- #
