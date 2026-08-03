@@ -2,7 +2,7 @@
 layout: page
 title: Pamela Freeman
 subtitle: Author Interview
-categories: author-interviews
+category: author-interviews
 ---
 <p>This month I am pleased to present an interview with Australian author, Pamela Freeman, who has many publications to her credit - some of the titles for children and young adults include The Willow Tree's Daughter, The Murderer's Apprentice and the Network Mysteries; and for adult, The Casting Trilogy.</p>
 
