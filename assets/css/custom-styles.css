@@ -1,0 +1,7 @@
+/* ===[ Custom Styles ]=== */
+/* ===[ Progress Bars ]=== */
+.status { width: 100%; }
+.status p { margin: 0.25em; }
+.stats { text-align: center; }
+.statusbar { border: 1px solid #1e73be; margin-bottom: 2em; }
+.statusfill { background-color: #1e73be; height: 10px; }

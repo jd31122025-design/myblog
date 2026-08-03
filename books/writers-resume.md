@@ -5,17 +5,17 @@ subtitle: More stuff than you wanted to know about me
 ---
 The progress bars below show the status of my current works-in-progress. Some of the projects are planned for the future. Others are being worked on now.
 
-<h2 class="heading">Short Stories</h2>
+## Short Stories
 
 I rarely write short stories, as I tend to gravitate towards longer works of fiction. But if I do decide to write another, it will be shown here.
 
-//I have nothing in this category at present.//
+_I have nothing in this category at present._
 
-<h2 class="heading">Children’s Chapter Books</h2>
+## Children’s Chapter Books
 
 I have published a few chapter books. I regularly write for the 8 to 12 year old age group.
 
-''House on the Hill – 100% Complete''
+**House on the Hill – 100% Complete**
 
 15,000 / 15,000
 
@@ -24,7 +24,7 @@ I have published a few chapter books. I regularly write for the 8 to 12 year old
 <div class="statusfill" style="width: 100%;">&nbsp;</div>
 </div> 
 
-''Ghost at the Cemetery – 42.85% Complete''
+**Ghost at the Cemetery – 42.85% Complete**
 
 6,427 / 15,000
 
@@ -33,7 +33,7 @@ I have published a few chapter books. I regularly write for the 8 to 12 year old
 <div class="statusfill" style="width: 42.85%;">&nbsp;</div>
 </div> 
 
-''(Untitled at Present) (Land of Miu, #4) – 0% Complete''
+**(Untitled at Present) (Land of Miu, #4) – 0% Complete**
 
 0 / 30,000
 
@@ -42,17 +42,17 @@ I have published a few chapter books. I regularly write for the 8 to 12 year old
 <div class="statusfill" style="width: 0%;">&nbsp;</div>
 </div> 
 
-<h2 class="heading">Young Adult Manuscripts</h2>
+## Young Adult Manuscripts
 
 This is another genre I don’t normally write in. But that doesn’t mean I’ll never do so.
 
-//I have nothing in this category at present.//
+_I have nothing in this category at present._
 
-<h2 class="heading">Adult Manuscripts</h2>
+## Adult Manuscripts
 
 Most of my completed manuscripts have been for adults. However, they all need major editing. The ones listed below will be published, one day.
 
-''Whispering Caves (Working Title) – 0% Complete''
+**Whispering Caves (Working Title) – 0% Complete**
 
 0 / 100,000
 
@@ -61,7 +61,7 @@ Most of my completed manuscripts have been for adults. However, they all need ma
 <div class="statusfill" style="width: 0%;">&nbsp;</div>
 </div> 
 
-''Untitled (Prequel to Whispering Caves) – 0% Complete''
+**Untitled (Prequel to Whispering Caves) – 0% Complete**
 
 0 / 100,000
 
@@ -70,7 +70,7 @@ Most of my completed manuscripts have been for adults. However, they all need ma
 <div class="statusfill" style="width: 0%;">&nbsp;</div>
 </div> 
 
-''Survival (Working Title) – 0% Complete''
+**Survival (Working Title) – 0% Complete**
 
 0 / 100,000
 
@@ -79,10 +79,10 @@ Most of my completed manuscripts have been for adults. However, they all need ma
 <div class="statusfill" style="width: 0%;">&nbsp;</div>
 </div> 
 
-<h2 class="heading">Non-Fiction Manuscripts</h2>
+## Non-Fiction Manuscripts
 
 I doubt I’ll write any non-fiction books. But I’ll list the category here, just in case.
 
-//I have nothing in this category at present.//
+_I have nothing in this category at present._
 
-<div class="endnote">Page updated on 11 November 2019.</div>
+<div style="text-align: center; font-size: 12px;">Last updated on 11 November 2024</div>
