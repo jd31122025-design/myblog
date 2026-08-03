@@ -33,16 +33,6 @@ navbar-links:
 # --- Collections --- #
 #######################
 
-jekyll-archives:
-  enabled:
-    - tags
-    - categories
-  layouts:
-    tag: tag_archive
-    category: category_archive
-  permalinks:
-    tag: '/tags/:name/'
-    category: '/categories/:name/'
 
 
 ################
