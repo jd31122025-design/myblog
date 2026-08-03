@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Pamela Freeman
 subtitle: Author Interview
 category: author-interviews

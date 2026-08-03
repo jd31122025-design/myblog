@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: The Orphan of the Flames
 subtitle: Book Review
 category: book-reviews

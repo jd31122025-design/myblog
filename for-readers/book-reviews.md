@@ -2,15 +2,7 @@
 layout: page
 title: Book Reviews
 ---
-<div class="posts">
-  {% for post in site.categories.book-reviews %}
-  <article class="post">
-      <h1 class="post-title">
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-      {{ post.content | markdownify | strip_html | truncatewords: 30 }}
-    </article>
-  {% endfor %}
-</div>
+ 
+{% for post in site.categories.book-reviews %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
