@@ -6,10 +6,10 @@ subtitle: Book Reviews and Author Interviews
 ---
 
 The headings on this page include:
-<ul>
-<li>[Author Interviews](./pages/author-interviews.md)</li>
-<li>Book Reviews</li>
-<li>Book Review Policy</li>
-</ul>
+
+* [Author Interviews](./pages/author-interviews.md)
+* Book Reviews
+* Book Review Policy
+
 I'll add content at a later date. But for now this is a placeholder for things to come.
 
