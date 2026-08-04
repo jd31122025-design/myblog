@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Book Reviews
 ---
- 
-{% for post in site.categories.book-reviews %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for book_reviews in site.book_reviews %}
+  <h2>{{ book_reviews.title }}</h2>
+  <h4>{{ book_reviews.rating }}</h4>
+  <p>{{ book_reviews.content | markdownify }}</p>
 {% endfor %}

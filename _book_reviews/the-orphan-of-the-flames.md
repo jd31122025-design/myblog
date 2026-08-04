@@ -1,12 +1,7 @@
 ---
-layout: post
-title: The Orphan of the Flames
-subtitle: Book Review
-category: book_reviews
+title: The Orphan of the Flames (Secret Breakers #2) by H.L. Dennis
+rating: 4 of 5 stars
 ---
-<p><b>The Orphan of the Flames (Secret Breakers #2) by H.L. Dennis</b><br>
-<b>Rating:</b> 4 of 5 stars</p>
-
 **Blurb:** 
 The team of code-crackers face a new code that has never been solved. Brodie, Hunter and Tusia are back at Station X, the secret code-cracking station at Bletchley Park. And they are still wrestling with the great unanswered what secret lies behind the ancient, coded Voynich Manuscript? Their first adventure left them with a musical box that plays a tune by the composer, Elgar. Elgar loved codes. At once they are off on a new search which takes them to the stories behind Elgar's famous music and a coded letter he wrote to a young friend, Dorabella. The 'Dorabella Cipher' has never, ever been solved. Now our team of code-breakers are on a twisting trail via medieval book burnings in Florence, a mysterious boy known as the Orphan of the Flames, and a one-time famous prisoner in London's Newgate Prison who wrote about King Arthur. Where is it all leading? And will they survive, when hot on their trail is a secret organisation that has always thwarted the search for Truth and is prepared to kill to stop them ... The second story in this highly original puzzle-solving series - a Da Vinci Code for kids. The reader races along with the Secret Breakers team to break the code ...
 
