@@ -1,5 +1,5 @@
 ---
-
+title: Author Interviews
 ---
 {% for author_interviews in site.author_interviews %}
   <h2>{{ author_interviews.name }}</h2>
