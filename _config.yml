@@ -33,7 +33,11 @@ navbar-links:
 # --- Collections --- #
 #######################
 
-
+collections:
+  author_interviews:
+    output: true
+  book_reviews:
+    output: true
 
 ################
 # --- Logo --- #

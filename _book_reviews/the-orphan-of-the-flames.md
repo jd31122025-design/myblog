@@ -2,7 +2,7 @@
 layout: post
 title: The Orphan of the Flames
 subtitle: Book Review
-category: book-reviews
+category: book_reviews
 ---
 <p><b>The Orphan of the Flames (Secret Breakers #2) by H.L. Dennis</b><br>
 <b>Rating:</b> 4 of 5 stars</p>
