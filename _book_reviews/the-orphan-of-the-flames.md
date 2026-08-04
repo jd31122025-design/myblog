@@ -1,5 +1,7 @@
 ---
-title: The Orphan of the Flames (Secret Breakers #2) by H.L. Dennis
+title: The Orphan of the Flames
+series: Secret Breakers #2
+author: H.L. Dennis
 rating: 4 of 5 stars
 ---
 **Blurb:** 
