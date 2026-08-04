@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Author Interviews
+
 ---
- 
-{% for post in site.categories.author-interviews %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for author_interviews in site.author_interviews %}
+  <h2>{{ author_interviews.name }}</h2>
+  <p>{{ author_interviews.content | markdownify }}</p>
 {% endfor %}
