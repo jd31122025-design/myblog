@@ -18,11 +18,13 @@ The headings on this page include:
 ## Posts on Writing
 
 <ul>
- {% for post in site.categories.writing %}
-   <li>
-     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-   </li>
- {% endfor %}
+  {% assign posts = site.categories.writing %}
+  {% for post in posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+    </li>
+  {% endfor %}
 </ul>
 
 ## Recommended Software
