@@ -2,6 +2,7 @@
 layout: post
 title:  "Learning Github"
 date:   2026-06-20 18:46:54 +1000
+categories: [website, general]
 ---
 This is a learning curve, for sure.
 
