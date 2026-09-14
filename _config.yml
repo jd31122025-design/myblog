@@ -36,19 +36,13 @@ navbar-links:
 collections:
   for-readers:
     output: true
-  for-writers:
-    output: true
-
+  
 defaults:
   - scope:
       path: "_for-readers"
     values:
       layout: post
-  - scope:
-      path: "_for-writers"
-    values:
-      layout: post
-
+  
 ################
 # --- Logo --- #
 ################
