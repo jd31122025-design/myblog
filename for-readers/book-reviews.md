@@ -1,7 +1,6 @@
 ---
 title: Book Reviews
 ---
-
 <ul>
   {% assign posts = site.categories.book-review %}
   {% for post in posts %}

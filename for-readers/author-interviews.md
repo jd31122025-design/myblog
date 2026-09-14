@@ -1,7 +1,12 @@
 ---
 title: Author Interviews
 ---
-{% for author_interviews in site.author_interviews %}
-  <h2>{{ author_interviews.name }}</h2>
-  <p>{{ author_interviews.content | markdownify }}</p>
-{% endfor %}
+<ul>
+  {% assign posts = site.categories.author-interview %}
+  {% for post in posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+    </li>
+  {% endfor %}
+</ul>
