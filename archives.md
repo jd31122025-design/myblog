@@ -2,14 +2,39 @@
 layout: page
 title: Archives
 ---
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
+
+<h1>Categories</h1>
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <h2>{{ category[0] }}</h2>
+      <ul>
+        {% for post in category[1] %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
   {% endfor %}
-</div>
+</ul>
+
+<hr>
+
+<h1>Tags</h1>
+<ul>
+  {% for tag in site.tags %}
+    <li>
+      <h2>{{ tag[0] }}</h2>
+      <ul>
+        {% for post in tag[1] %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span>({{ post.date | date: "%Y-%m-%d" }})</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
