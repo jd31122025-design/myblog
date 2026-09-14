@@ -34,10 +34,20 @@ navbar-links:
 #######################
 
 collections:
-  author_interviews:
+  for-readers:
     output: true
-  book_reviews:
+  for-writers:
     output: true
+
+defaults:
+  - scope:
+      path: "_for-readers"
+    values:
+      layout: post
+  - scope:
+      path: "_for-writers"
+    values:
+      layout: post
 
 ################
 # --- Logo --- #

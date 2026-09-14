@@ -4,7 +4,7 @@ title:  "The Power of Three"
 subtitle: Book review
 date:   2024-04-25 18:46:54 +1000
 tags: [reading, books]
-categories: [book review]
+categories: [book-review]
 ---
 <h3>The Power of Three (Secret Breakers #1) by H.L. Dennis</h3>
 
