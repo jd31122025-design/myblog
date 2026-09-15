@@ -36,12 +36,16 @@ navbar-links:
 collections:
   for-readers:
     output: true
-  
+    permalink: /for-readers/:name
+    categories: true
+
 defaults:
   - scope:
       path: "_for-readers"
+      type: for-readers
     values:
       layout: post
+      is_post: true
   
 ################
 # --- Logo --- #

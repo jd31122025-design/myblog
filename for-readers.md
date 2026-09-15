@@ -12,7 +12,7 @@ subtitle: Book Reviews and Author Interviews
 
 <ul>
   {% assign posts = site.categories.author-interview %}
-  {% if posts %}
+  {% if posts and posts.size > 0 %}
     {% for post in posts %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -28,7 +28,7 @@ subtitle: Book Reviews and Author Interviews
 
 <ul>
   {% assign posts = site.categories.book-review %}
-  {% if posts %}
+  {% if posts and posts.size > 0 %}
     {% for post in posts %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
